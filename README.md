@@ -41,5 +41,3 @@ Inside, you’ll find:
 - **Notes and mini-projects** that track my growth as a data practitioner
 
 💬 **Are you learning Python or Pandas too? Feel free to explore, fork, and grow along with me!** 🙌
-
->>>>>>> 3ea70e859ca03627e0ba5c3b21ed9bbab72c63cb
