@@ -23,6 +23,7 @@ Beyond technical skills, I aim to support decision-making by presenting data in 
 
 This is more than just a folder of code — it’s my learning journal.
 Inside, you’ll find:
+<<<<<<< HEAD
 
 - 📝 **Step-by-step notebooks** showing my thought process
 
@@ -31,3 +32,14 @@ Inside, you’ll find:
 - **Notes and mini-projects** that track my growth as a data practitioner
 
 💬 **Are you learning Python or Pandas too? Feel free to explore, fork, and grow along with me!** 🙌
+=======
+
+- 📝 **Step-by-step notebooks** showing my thought process
+
+- 💻 **Code snippets** to solve common problems
+
+- **Notes and mini-projects** that track my growth as a data practitioner
+
+💬 **Are you learning Python or Pandas too? Feel free to explore, fork, and grow along with me!** 🙌
+
+>>>>>>> 3ea70e859ca03627e0ba5c3b21ed9bbab72c63cb
